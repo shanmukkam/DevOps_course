@@ -1,6 +1,8 @@
 file added
 4th file in test
+<<<<<<< HEAD
 data added in master
+=======
 my intention is to create conflict here
-
+>>>>>>> feature
 
